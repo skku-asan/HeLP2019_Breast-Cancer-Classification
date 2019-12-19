@@ -40,7 +40,7 @@ SecretStorage==2.3.1
 six==1.11.0
 tensorboard==1.14.0
 tensorflow-estimator==1.14.0
-tensorflow-gpu==1.14.0
+tensorflow-gpu==1.15.0
 termcolor==1.1.0
 tqdm==4.40.2
 Werkzeug==0.15.4
