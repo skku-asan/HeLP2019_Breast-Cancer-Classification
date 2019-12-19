@@ -9,7 +9,7 @@ import keras
 import tensorflow as tf
 
 try:
-    ID = str(os.environ['ID']) # ID into kakao cloud
+    ID = str(os.environ['ID']) # Container ID in the cloud
 except:
     ID = '1'
 
